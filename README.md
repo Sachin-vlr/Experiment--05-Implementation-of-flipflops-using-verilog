@@ -160,31 +160,31 @@ endmodule
 
 
 ### RTL LOGIC FOR FLIPFLOPS 
-###RTL 1
+RTL 1
 ![RTL1](https://user-images.githubusercontent.com/113497666/214006822-a886f997-09a9-424c-b21c-ba74598d8171.jpg)
 
-###RTL 2
+RTL 2
 ![RTL 2](https://user-images.githubusercontent.com/113497666/214006930-be92ab98-09c1-4553-9b20-744f0d176508.jpg)
 
-###RTL 3
+RTL 3
 ![RTL 3](https://user-images.githubusercontent.com/113497666/214006961-45875e54-c823-44b3-a745-7010f028beb1.jpg)
 
-###RTL 4
+RTL 4
 ![RTL 4](https://user-images.githubusercontent.com/113497666/214006985-d8a44d8c-d9e2-4e19-88b4-75533fc88e9e.jpg)
 
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
-###TIMING DIAGRAM 1
+TIMING DIAGRAM 1
 ![TG 1](https://user-images.githubusercontent.com/113497666/214007155-bc868cad-1ebe-48b5-9c1f-8732c8dd8a75.jpg)
 
-###TIMING DIAGRAM 2
+TIMING DIAGRAM 2
 ![TG2](https://user-images.githubusercontent.com/113497666/214007177-c50cb0fa-40db-4ecf-8f88-cf95d3738e61.jpg)
 
-###TIMING DIAGRAM 3
+TIMING DIAGRAM 3
 ![TG3](https://user-images.githubusercontent.com/113497666/214007207-49490bfd-5d62-4a79-a65c-36962362ed4e.jpg)
 
 
-###TIMING DIAGRAM 4
+TIMING DIAGRAM 4
 ![TG4](https://user-images.githubusercontent.com/113497666/214007231-268bc492-44f5-4320-850f-7cee74866fb6.jpg)
 
 
